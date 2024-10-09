@@ -1,0 +1,16 @@
+{"time":"2024-10-08T17:31:16.514745416-04:00","level":"INFO","msg":"using version","core version":"0.18.3"}
+{"time":"2024-10-08T17:31:16.51476278-04:00","level":"INFO","msg":"created symlink","path":"/home/ah5087/COS397_IW/model/wandb/offline-run-20241008_173116-l7dmjhul/logs/debug-core.log"}
+{"time":"2024-10-08T17:31:16.5220399-04:00","level":"INFO","msg":"created new stream","id":"l7dmjhul"}
+{"time":"2024-10-08T17:31:16.522066288-04:00","level":"INFO","msg":"stream: started","id":"l7dmjhul"}
+{"time":"2024-10-08T17:31:16.52209195-04:00","level":"INFO","msg":"sender: started","stream_id":{"value":"l7dmjhul"}}
+{"time":"2024-10-08T17:31:16.52214476-04:00","level":"INFO","msg":"handler: started","stream_id":{"value":"l7dmjhul"}}
+{"time":"2024-10-08T17:31:16.522083287-04:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"l7dmjhul"}}
+{"time":"2024-10-08T17:31:16.529951887-04:00","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-08T17:31:16.571374643-04:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-08T17:31:17.618582178-04:00","level":"INFO","msg":"stream: closing","id":"l7dmjhul"}
+{"time":"2024-10-08T17:31:17.618633484-04:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-08T17:31:17.618683774-04:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-08T17:31:17.618886324-04:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"l7dmjhul"}}
+{"time":"2024-10-08T17:31:17.618905715-04:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"l7dmjhul"}}
+{"time":"2024-10-08T17:31:17.618911762-04:00","level":"INFO","msg":"sender: closed","stream_id":{"value":"l7dmjhul"}}
+{"time":"2024-10-08T17:31:17.619098526-04:00","level":"INFO","msg":"stream: closed","id":"l7dmjhul"}

@@ -1,0 +1,26 @@
+Training Progress:   0%|                                                                                                                                                          | 0/1000 [00:00<?, ?it/s]train.py:50: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  obs_flat = torch.tensor(obs, dtype=torch.float32).view(-1)
+train.py:62: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  next_obs_flat = torch.tensor(next_obs, dtype=torch.float32).view(-1)
+train.py:68: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  torch.tensor(action, dtype=torch.float32),
+Episode 0, Contrastive Loss: 0.0000, Critic Loss: 0.0773, Actor Loss: -0.3281, Intrinsic Reward: 0.0000
+Training Progress:   1%|█                                                                                                                                              | 7/1000 [06:58<16:28:20, 59.72s/it]
+Traceback (most recent call last):
+  File "train.py", line 65, in <module>
+    loss_info = cic.update(
+  File "/home/ah5087/COS397_IW/model/model.py", line 121, in update
+    self.actor_optimizer.step()
+  File "/home/ah5087/.pyenv/versions/myenv/lib/python3.8/site-packages/torch/optim/optimizer.py", line 484, in wrapper
+    out = func(*args, **kwargs)
+  File "/home/ah5087/.pyenv/versions/myenv/lib/python3.8/site-packages/torch/optim/optimizer.py", line 89, in _use_grad
+    ret = func(self, *args, **kwargs)
+  File "/home/ah5087/.pyenv/versions/myenv/lib/python3.8/site-packages/torch/optim/adam.py", line 226, in step
+    adam(
+  File "/home/ah5087/.pyenv/versions/myenv/lib/python3.8/site-packages/torch/optim/optimizer.py", line 161, in maybe_fallback
+    return func(*args, **kwargs)
+  File "/home/ah5087/.pyenv/versions/myenv/lib/python3.8/site-packages/torch/optim/adam.py", line 766, in adam
+    func(
+  File "/home/ah5087/.pyenv/versions/myenv/lib/python3.8/site-packages/torch/optim/adam.py", line 380, in _single_tensor_adam
+    exp_avg_sq.mul_(beta2).addcmul_(grad, grad.conj(), value=1 - beta2)
+KeyboardInterrupt

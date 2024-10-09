@@ -1,0 +1,18 @@
+{"time":"2024-10-08T16:02:33.801204219-04:00","level":"INFO","msg":"using version","core version":"0.18.3"}
+{"time":"2024-10-08T16:02:33.801214057-04:00","level":"INFO","msg":"created symlink","path":"/home/ah5087/COS397_IW/model/wandb/run-20241008_160233-ipd9qqzr/logs/debug-core.log"}
+{"time":"2024-10-08T16:02:33.802996482-04:00","level":"ERROR","msg":"dialing: google: could not find default credentials. See https://cloud.google.com/docs/authentication/external/set-up-adc for more information"}
+{"time":"2024-10-08T16:02:33.811450865-04:00","level":"INFO","msg":"created new stream","id":"ipd9qqzr"}
+{"time":"2024-10-08T16:02:33.811479214-04:00","level":"INFO","msg":"stream: started","id":"ipd9qqzr"}
+{"time":"2024-10-08T16:02:33.811494476-04:00","level":"INFO","msg":"sender: started","stream_id":{"value":"ipd9qqzr"}}
+{"time":"2024-10-08T16:02:33.811505362-04:00","level":"INFO","msg":"handler: started","stream_id":{"value":"ipd9qqzr"}}
+{"time":"2024-10-08T16:02:33.811490185-04:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"ipd9qqzr"}}
+{"time":"2024-10-08T16:02:34.259501257-04:00","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-08T16:02:34.260566979-04:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-08T16:09:33.180812324-04:00","level":"INFO","msg":"stream: closing","id":"ipd9qqzr"}
+{"time":"2024-10-08T16:09:33.180854079-04:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-08T16:09:33.180889223-04:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-08T16:09:36.016835178-04:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-10-08T16:09:36.310535925-04:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"ipd9qqzr"}}
+{"time":"2024-10-08T16:09:36.310588731-04:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"ipd9qqzr"}}
+{"time":"2024-10-08T16:09:36.310618817-04:00","level":"INFO","msg":"sender: closed","stream_id":{"value":"ipd9qqzr"}}
+{"time":"2024-10-08T16:09:36.310967338-04:00","level":"INFO","msg":"stream: closed","id":"ipd9qqzr"}

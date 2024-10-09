@@ -1,0 +1,9 @@
+{"time":"2024-10-08T17:37:21.324616993-04:00","level":"INFO","msg":"using version","core version":"0.18.3"}
+{"time":"2024-10-08T17:37:21.32463317-04:00","level":"INFO","msg":"created symlink","path":"/home/ah5087/COS397_IW/model/wandb/offline-run-20241008_173721-pp335q1f/logs/debug-core.log"}
+{"time":"2024-10-08T17:37:21.332510125-04:00","level":"INFO","msg":"created new stream","id":"pp335q1f"}
+{"time":"2024-10-08T17:37:21.332537791-04:00","level":"INFO","msg":"stream: started","id":"pp335q1f"}
+{"time":"2024-10-08T17:37:21.332552781-04:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"pp335q1f"}}
+{"time":"2024-10-08T17:37:21.33261086-04:00","level":"INFO","msg":"handler: started","stream_id":{"value":"pp335q1f"}}
+{"time":"2024-10-08T17:37:21.332563099-04:00","level":"INFO","msg":"sender: started","stream_id":{"value":"pp335q1f"}}
+{"time":"2024-10-08T17:37:21.339365773-04:00","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-08T17:37:21.381268528-04:00","level":"INFO","msg":"Starting system monitor"}

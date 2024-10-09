@@ -1,0 +1,12 @@
+Training Progress:   0%|                                                                                                                                                          | 0/1000 [00:00<?, ?it/s]train.py:48: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  obs_flat = torch.tensor(obs, dtype=torch.float32).view(-1)
+train.py:60: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  next_obs_flat = torch.tensor(next_obs, dtype=torch.float32).view(-1)
+train.py:66: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  torch.tensor(action, dtype=torch.float32),
+Episode 0, Contrastive Loss: 0.0000, Critic Loss: 72.0398, Actor Loss: 7.1303, Intrinsic Reward: 0.0000
+Training Progress:   0%|▏                                                                                                                                              | 1/1000 [00:54<15:03:10, 54.24s/it]
+Traceback (most recent call last):
+  File "train.py", line 96, in <module>
+    torch.save(cic.state_dict(), checkpoint_path)
+AttributeError: 'CIC' object has no attribute 'state_dict'

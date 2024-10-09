@@ -1,0 +1,301 @@
+2024-10-09 01:21:53 INFO open for scan: /home/ah5087/COS397_IW/model/wandb/offline-run-20241009_011454-efdjo9tl/run-efdjo9tl.wandb
+2024-10-09 01:21:53 INFO watching files in: /home/ah5087/COS397_IW/model/wandb/offline-run-20241009_011454-efdjo9tl/files
+2024-10-09 01:21:53 INFO run started: efdjo9tl with start time 1728450894.299231
+2024-10-09 01:21:53 INFO saving file wandb-metadata.json with policy now
+2024-10-09 01:21:53 INFO saving file wandb-metadata.json with policy now
+2024-10-09 01:21:53 INFO saving file requirements.txt with policy now
+2024-10-09 01:21:53 INFO saving file media/images/predicted_density_image_0_c66e49fb2d890ca8c40f.png with policy now
+2024-10-09 01:21:53 INFO saving file wandb-summary.json with policy end
+2024-10-09 01:21:53 INFO saving file wandb-summary.json with policy end
+2024-10-09 01:21:53 INFO saving file wandb-summary.json with policy end
+2024-10-09 01:21:53 INFO saving file wandb-summary.json with policy end
+2024-10-09 01:21:53 INFO saving file model_checkpoint_0.pth with policy live
+2024-10-09 01:21:53 INFO saving file media/images/predicted_density_image_2_e014ae3cf71870464c85.png with policy now
+2024-10-09 01:21:53 INFO saving file wandb-summary.json with policy end
+2024-10-09 01:21:53 INFO saving file wandb-summary.json with policy end
+2024-10-09 01:21:53 INFO saving file wandb-summary.json with policy end
+2024-10-09 01:21:53 INFO saving file wandb-summary.json with policy end
+2024-10-09 01:21:53 INFO shutting down sender
+2024-10-09 01:21:53 INFO Uploaded file /tmp/tmp88ui0itcwandb/3ytuv00e-wandb-metadata.json
+2024-10-09 01:21:53 INFO Uploaded file /tmp/tmp88ui0itcwandb/p38qlgyh-media/images/predicted_density_image_2_e014ae3cf71870464c85.png
+2024-10-09 01:21:53 INFO Uploaded file /tmp/tmp88ui0itcwandb/5m8t4qtl-media/images/predicted_density_image_0_c66e49fb2d890ca8c40f.png
+2024-10-09 01:21:53 INFO Uploaded file /tmp/tmp88ui0itcwandb/9p934rhf-requirements.txt
+2024-10-09 01:21:53 INFO Uploaded file /tmp/tmp88ui0itcwandb/z1x16w07-wandb-metadata.json
+2024-10-09 01:21:54 INFO Uploaded file /tmp/tmp88ui0itcwandb/pup21w95-model_checkpoint_0.pth
+2024-10-09 01:21:54 INFO file/dir modified: /home/ah5087/COS397_IW/model/wandb/offline-run-20241009_011454-efdjo9tl/files/output.log
+2024-10-09 01:21:54 INFO file/dir modified: /home/ah5087/COS397_IW/model/wandb/offline-run-20241009_011454-efdjo9tl/files/wandb-summary.json
+2024-10-09 01:21:55 INFO shutting down directory watcher
+2024-10-09 01:21:55 INFO file/dir modified: /home/ah5087/COS397_IW/model/wandb/offline-run-20241009_011454-efdjo9tl/files/output.log
+2024-10-09 01:21:55 INFO scan: /home/ah5087/COS397_IW/model/wandb/offline-run-20241009_011454-efdjo9tl/files
+2024-10-09 01:21:55 INFO scan save: /home/ah5087/COS397_IW/model/wandb/offline-run-20241009_011454-efdjo9tl/files/output.log output.log
+2024-10-09 01:21:55 INFO scan save: /home/ah5087/COS397_IW/model/wandb/offline-run-20241009_011454-efdjo9tl/files/wandb-metadata.json wandb-metadata.json
+2024-10-09 01:21:55 INFO scan save: /home/ah5087/COS397_IW/model/wandb/offline-run-20241009_011454-efdjo9tl/files/requirements.txt requirements.txt
+2024-10-09 01:21:55 INFO scan save: /home/ah5087/COS397_IW/model/wandb/offline-run-20241009_011454-efdjo9tl/files/model_checkpoint_0.pth model_checkpoint_0.pth
+2024-10-09 01:21:55 INFO scan save: /home/ah5087/COS397_IW/model/wandb/offline-run-20241009_011454-efdjo9tl/files/config.yaml config.yaml
+2024-10-09 01:21:55 INFO scan save: /home/ah5087/COS397_IW/model/wandb/offline-run-20241009_011454-efdjo9tl/files/wandb-summary.json wandb-summary.json
+2024-10-09 01:21:55 INFO scan save: /home/ah5087/COS397_IW/model/wandb/offline-run-20241009_011454-efdjo9tl/files/media/images/predicted_density_image_0_c66e49fb2d890ca8c40f.png media/images/predicted_density_image_0_c66e49fb2d890ca8c40f.png
+2024-10-09 01:21:55 INFO scan save: /home/ah5087/COS397_IW/model/wandb/offline-run-20241009_011454-efdjo9tl/files/media/images/predicted_density_image_2_e014ae3cf71870464c85.png media/images/predicted_density_image_2_e014ae3cf71870464c85.png
+2024-10-09 01:21:55 INFO scan save: /home/ah5087/COS397_IW/model/wandb/offline-run-20241009_011454-efdjo9tl/files/media/images/predicted_density_image_4_fd4e8fbe2c8ec2147433.png media/images/predicted_density_image_4_fd4e8fbe2c8ec2147433.png
+2024-10-09 01:21:55 INFO shutting down file pusher
+2024-10-09 01:21:55 INFO waiting for file pusher
+2024-10-09 01:21:55 INFO Uploaded file /home/ah5087/COS397_IW/model/wandb/offline-run-20241009_011454-efdjo9tl/files/wandb-summary.json
+2024-10-09 01:21:55 INFO Uploaded file /home/ah5087/COS397_IW/model/wandb/offline-run-20241009_011454-efdjo9tl/files/config.yaml
+2024-10-09 01:21:55 INFO Uploaded file /home/ah5087/COS397_IW/model/wandb/offline-run-20241009_011454-efdjo9tl/files/output.log
+2024-10-09 01:21:55 INFO file stream finish called
+2024-10-09 01:21:56 INFO file stream finish is done
+2024-10-09 01:24:14 INFO open for scan: /home/ah5087/COS397_IW/model/wandb/offline-run-20241009_011454-efdjo9tl/run-efdjo9tl.wandb
+2024-10-09 01:24:14 INFO watching files in: /home/ah5087/COS397_IW/model/wandb/offline-run-20241009_011454-efdjo9tl/files
+2024-10-09 01:24:14 INFO run started: efdjo9tl with start time 1728450894.299231
+2024-10-09 01:24:14 INFO saving file wandb-metadata.json with policy now
+2024-10-09 01:24:14 INFO saving file wandb-metadata.json with policy now
+2024-10-09 01:24:14 INFO saving file requirements.txt with policy now
+2024-10-09 01:24:14 INFO saving file media/images/predicted_density_image_0_c66e49fb2d890ca8c40f.png with policy now
+2024-10-09 01:24:14 INFO saving file wandb-summary.json with policy end
+2024-10-09 01:24:14 INFO saving file wandb-summary.json with policy end
+2024-10-09 01:24:14 INFO saving file wandb-summary.json with policy end
+2024-10-09 01:24:14 INFO saving file wandb-summary.json with policy end
+2024-10-09 01:24:14 INFO saving file model_checkpoint_0.pth with policy live
+2024-10-09 01:24:14 INFO saving file media/images/predicted_density_image_2_e014ae3cf71870464c85.png with policy now
+2024-10-09 01:24:14 INFO saving file wandb-summary.json with policy end
+2024-10-09 01:24:14 INFO saving file wandb-summary.json with policy end
+2024-10-09 01:24:14 INFO saving file wandb-summary.json with policy end
+2024-10-09 01:24:14 INFO saving file wandb-summary.json with policy end
+2024-10-09 01:24:14 INFO saving file media/images/predicted_density_image_4_fd4e8fbe2c8ec2147433.png with policy now
+2024-10-09 01:24:14 INFO saving file wandb-summary.json with policy end
+2024-10-09 01:24:14 INFO saving file wandb-summary.json with policy end
+2024-10-09 01:24:14 INFO saving file wandb-summary.json with policy end
+2024-10-09 01:24:14 INFO saving file wandb-summary.json with policy end
+2024-10-09 01:24:14 INFO shutting down sender
+2024-10-09 01:24:15 INFO Uploaded file /tmp/tmpg51ukvoywandb/zermfmwd-media/images/predicted_density_image_4_fd4e8fbe2c8ec2147433.png
+2024-10-09 01:24:15 INFO Uploaded file /tmp/tmpg51ukvoywandb/0cral8j8-media/images/predicted_density_image_2_e014ae3cf71870464c85.png
+2024-10-09 01:24:15 INFO Uploaded file /tmp/tmpg51ukvoywandb/el8lgix3-wandb-metadata.json
+2024-10-09 01:24:15 INFO Uploaded file /tmp/tmpg51ukvoywandb/jhc3r4jq-requirements.txt
+2024-10-09 01:24:15 INFO Uploaded file /tmp/tmpg51ukvoywandb/ctiz35bm-media/images/predicted_density_image_0_c66e49fb2d890ca8c40f.png
+2024-10-09 01:24:15 INFO Uploaded file /tmp/tmpg51ukvoywandb/xzur5i5e-wandb-metadata.json
+2024-10-09 01:24:15 INFO Uploaded file /tmp/tmpg51ukvoywandb/03qbziin-model_checkpoint_0.pth
+2024-10-09 01:24:15 INFO file/dir modified: /home/ah5087/COS397_IW/model/wandb/offline-run-20241009_011454-efdjo9tl/files/wandb-summary.json
+2024-10-09 01:24:15 INFO file/dir modified: /home/ah5087/COS397_IW/model/wandb/offline-run-20241009_011454-efdjo9tl/files/output.log
+2024-10-09 01:24:16 INFO shutting down directory watcher
+2024-10-09 01:24:17 INFO file/dir modified: /home/ah5087/COS397_IW/model/wandb/offline-run-20241009_011454-efdjo9tl/files/output.log
+2024-10-09 01:24:17 INFO scan: /home/ah5087/COS397_IW/model/wandb/offline-run-20241009_011454-efdjo9tl/files
+2024-10-09 01:24:17 INFO scan save: /home/ah5087/COS397_IW/model/wandb/offline-run-20241009_011454-efdjo9tl/files/output.log output.log
+2024-10-09 01:24:17 INFO scan save: /home/ah5087/COS397_IW/model/wandb/offline-run-20241009_011454-efdjo9tl/files/wandb-metadata.json wandb-metadata.json
+2024-10-09 01:24:17 INFO scan save: /home/ah5087/COS397_IW/model/wandb/offline-run-20241009_011454-efdjo9tl/files/requirements.txt requirements.txt
+2024-10-09 01:24:17 INFO scan save: /home/ah5087/COS397_IW/model/wandb/offline-run-20241009_011454-efdjo9tl/files/model_checkpoint_0.pth model_checkpoint_0.pth
+2024-10-09 01:24:17 INFO scan save: /home/ah5087/COS397_IW/model/wandb/offline-run-20241009_011454-efdjo9tl/files/config.yaml config.yaml
+2024-10-09 01:24:17 INFO scan save: /home/ah5087/COS397_IW/model/wandb/offline-run-20241009_011454-efdjo9tl/files/wandb-summary.json wandb-summary.json
+2024-10-09 01:24:17 INFO scan save: /home/ah5087/COS397_IW/model/wandb/offline-run-20241009_011454-efdjo9tl/files/media/images/predicted_density_image_0_c66e49fb2d890ca8c40f.png media/images/predicted_density_image_0_c66e49fb2d890ca8c40f.png
+2024-10-09 01:24:17 INFO scan save: /home/ah5087/COS397_IW/model/wandb/offline-run-20241009_011454-efdjo9tl/files/media/images/predicted_density_image_2_e014ae3cf71870464c85.png media/images/predicted_density_image_2_e014ae3cf71870464c85.png
+2024-10-09 01:24:17 INFO scan save: /home/ah5087/COS397_IW/model/wandb/offline-run-20241009_011454-efdjo9tl/files/media/images/predicted_density_image_4_fd4e8fbe2c8ec2147433.png media/images/predicted_density_image_4_fd4e8fbe2c8ec2147433.png
+2024-10-09 01:24:17 INFO scan save: /home/ah5087/COS397_IW/model/wandb/offline-run-20241009_011454-efdjo9tl/files/media/images/predicted_density_image_6_dc1d5e73040c9aa5ff9b.png media/images/predicted_density_image_6_dc1d5e73040c9aa5ff9b.png
+2024-10-09 01:24:17 INFO shutting down file pusher
+2024-10-09 01:24:17 INFO waiting for file pusher
+2024-10-09 01:24:18 INFO Uploaded file /home/ah5087/COS397_IW/model/wandb/offline-run-20241009_011454-efdjo9tl/files/wandb-summary.json
+2024-10-09 01:24:18 INFO Uploaded file /home/ah5087/COS397_IW/model/wandb/offline-run-20241009_011454-efdjo9tl/files/output.log
+2024-10-09 01:24:18 INFO Uploaded file /home/ah5087/COS397_IW/model/wandb/offline-run-20241009_011454-efdjo9tl/files/config.yaml
+2024-10-09 01:24:18 INFO file stream finish called
+2024-10-09 01:24:18 INFO file stream finish is done
+2024-10-09 01:26:37 INFO open for scan: /home/ah5087/COS397_IW/model/wandb/offline-run-20241009_011454-efdjo9tl/run-efdjo9tl.wandb
+2024-10-09 01:26:38 INFO watching files in: /home/ah5087/COS397_IW/model/wandb/offline-run-20241009_011454-efdjo9tl/files
+2024-10-09 01:26:38 INFO run started: efdjo9tl with start time 1728450894.299231
+2024-10-09 01:26:38 INFO saving file wandb-metadata.json with policy now
+2024-10-09 01:26:38 INFO saving file wandb-metadata.json with policy now
+2024-10-09 01:26:38 INFO saving file requirements.txt with policy now
+2024-10-09 01:26:38 INFO saving file media/images/predicted_density_image_0_c66e49fb2d890ca8c40f.png with policy now
+2024-10-09 01:26:38 INFO saving file wandb-summary.json with policy end
+2024-10-09 01:26:38 INFO saving file wandb-summary.json with policy end
+2024-10-09 01:26:38 INFO saving file wandb-summary.json with policy end
+2024-10-09 01:26:38 INFO saving file wandb-summary.json with policy end
+2024-10-09 01:26:38 INFO saving file model_checkpoint_0.pth with policy live
+2024-10-09 01:26:38 INFO saving file media/images/predicted_density_image_2_e014ae3cf71870464c85.png with policy now
+2024-10-09 01:26:38 INFO saving file wandb-summary.json with policy end
+2024-10-09 01:26:38 INFO saving file wandb-summary.json with policy end
+2024-10-09 01:26:38 INFO saving file wandb-summary.json with policy end
+2024-10-09 01:26:38 INFO saving file wandb-summary.json with policy end
+2024-10-09 01:26:38 INFO saving file media/images/predicted_density_image_4_fd4e8fbe2c8ec2147433.png with policy now
+2024-10-09 01:26:38 INFO saving file wandb-summary.json with policy end
+2024-10-09 01:26:38 INFO saving file wandb-summary.json with policy end
+2024-10-09 01:26:38 INFO saving file wandb-summary.json with policy end
+2024-10-09 01:26:38 INFO saving file wandb-summary.json with policy end
+2024-10-09 01:26:38 INFO saving file media/images/predicted_density_image_6_dc1d5e73040c9aa5ff9b.png with policy now
+2024-10-09 01:26:38 INFO saving file wandb-summary.json with policy end
+2024-10-09 01:26:38 INFO saving file wandb-summary.json with policy end
+2024-10-09 01:26:38 INFO saving file wandb-summary.json with policy end
+2024-10-09 01:26:38 INFO saving file wandb-summary.json with policy end
+2024-10-09 01:26:38 INFO shutting down sender
+2024-10-09 01:26:38 INFO Uploaded file /tmp/tmp8hzqigtewandb/xrqnp7s2-media/images/predicted_density_image_6_dc1d5e73040c9aa5ff9b.png
+2024-10-09 01:26:38 INFO Uploaded file /tmp/tmp8hzqigtewandb/heq7cp3o-wandb-metadata.json
+2024-10-09 01:26:38 INFO Uploaded file /tmp/tmp8hzqigtewandb/ske69iks-requirements.txt
+2024-10-09 01:26:38 INFO Uploaded file /tmp/tmp8hzqigtewandb/oqtruhot-media/images/predicted_density_image_4_fd4e8fbe2c8ec2147433.png
+2024-10-09 01:26:38 INFO Uploaded file /tmp/tmp8hzqigtewandb/0svp3xsy-media/images/predicted_density_image_2_e014ae3cf71870464c85.png
+2024-10-09 01:26:38 INFO Uploaded file /tmp/tmp8hzqigtewandb/tj7e00us-media/images/predicted_density_image_0_c66e49fb2d890ca8c40f.png
+2024-10-09 01:26:38 INFO Uploaded file /tmp/tmp8hzqigtewandb/vpfd2b8i-wandb-metadata.json
+2024-10-09 01:26:38 INFO Uploaded file /tmp/tmp8hzqigtewandb/sgos1an2-model_checkpoint_0.pth
+2024-10-09 01:26:39 INFO file/dir modified: /home/ah5087/COS397_IW/model/wandb/offline-run-20241009_011454-efdjo9tl/files/output.log
+2024-10-09 01:26:39 INFO file/dir modified: /home/ah5087/COS397_IW/model/wandb/offline-run-20241009_011454-efdjo9tl/files/wandb-summary.json
+2024-10-09 01:26:40 INFO shutting down directory watcher
+2024-10-09 01:26:40 INFO file/dir modified: /home/ah5087/COS397_IW/model/wandb/offline-run-20241009_011454-efdjo9tl/files/output.log
+2024-10-09 01:26:40 INFO scan: /home/ah5087/COS397_IW/model/wandb/offline-run-20241009_011454-efdjo9tl/files
+2024-10-09 01:26:40 INFO scan save: /home/ah5087/COS397_IW/model/wandb/offline-run-20241009_011454-efdjo9tl/files/output.log output.log
+2024-10-09 01:26:40 INFO scan save: /home/ah5087/COS397_IW/model/wandb/offline-run-20241009_011454-efdjo9tl/files/wandb-metadata.json wandb-metadata.json
+2024-10-09 01:26:40 INFO scan save: /home/ah5087/COS397_IW/model/wandb/offline-run-20241009_011454-efdjo9tl/files/requirements.txt requirements.txt
+2024-10-09 01:26:40 INFO scan save: /home/ah5087/COS397_IW/model/wandb/offline-run-20241009_011454-efdjo9tl/files/model_checkpoint_0.pth model_checkpoint_0.pth
+2024-10-09 01:26:40 INFO scan save: /home/ah5087/COS397_IW/model/wandb/offline-run-20241009_011454-efdjo9tl/files/config.yaml config.yaml
+2024-10-09 01:26:40 INFO scan save: /home/ah5087/COS397_IW/model/wandb/offline-run-20241009_011454-efdjo9tl/files/wandb-summary.json wandb-summary.json
+2024-10-09 01:26:40 INFO scan save: /home/ah5087/COS397_IW/model/wandb/offline-run-20241009_011454-efdjo9tl/files/media/images/predicted_density_image_0_c66e49fb2d890ca8c40f.png media/images/predicted_density_image_0_c66e49fb2d890ca8c40f.png
+2024-10-09 01:26:40 INFO scan save: /home/ah5087/COS397_IW/model/wandb/offline-run-20241009_011454-efdjo9tl/files/media/images/predicted_density_image_2_e014ae3cf71870464c85.png media/images/predicted_density_image_2_e014ae3cf71870464c85.png
+2024-10-09 01:26:40 INFO scan save: /home/ah5087/COS397_IW/model/wandb/offline-run-20241009_011454-efdjo9tl/files/media/images/predicted_density_image_4_fd4e8fbe2c8ec2147433.png media/images/predicted_density_image_4_fd4e8fbe2c8ec2147433.png
+2024-10-09 01:26:40 INFO scan save: /home/ah5087/COS397_IW/model/wandb/offline-run-20241009_011454-efdjo9tl/files/media/images/predicted_density_image_6_dc1d5e73040c9aa5ff9b.png media/images/predicted_density_image_6_dc1d5e73040c9aa5ff9b.png
+2024-10-09 01:26:40 INFO scan save: /home/ah5087/COS397_IW/model/wandb/offline-run-20241009_011454-efdjo9tl/files/media/images/predicted_density_image_8_aab2dbe3a1520ec66b9f.png media/images/predicted_density_image_8_aab2dbe3a1520ec66b9f.png
+2024-10-09 01:26:40 INFO shutting down file pusher
+2024-10-09 01:26:40 INFO waiting for file pusher
+2024-10-09 01:26:40 INFO Uploaded file /home/ah5087/COS397_IW/model/wandb/offline-run-20241009_011454-efdjo9tl/files/config.yaml
+2024-10-09 01:26:40 INFO Uploaded file /home/ah5087/COS397_IW/model/wandb/offline-run-20241009_011454-efdjo9tl/files/output.log
+2024-10-09 01:26:40 INFO Uploaded file /home/ah5087/COS397_IW/model/wandb/offline-run-20241009_011454-efdjo9tl/files/wandb-summary.json
+2024-10-09 01:26:40 INFO file stream finish called
+2024-10-09 01:26:40 INFO file stream finish is done
+2024-10-09 01:28:55 INFO open for scan: /home/ah5087/COS397_IW/model/wandb/offline-run-20241009_011454-efdjo9tl/run-efdjo9tl.wandb
+2024-10-09 01:28:55 INFO watching files in: /home/ah5087/COS397_IW/model/wandb/offline-run-20241009_011454-efdjo9tl/files
+2024-10-09 01:28:55 INFO run started: efdjo9tl with start time 1728450894.299231
+2024-10-09 01:28:55 INFO saving file wandb-metadata.json with policy now
+2024-10-09 01:28:55 INFO saving file wandb-metadata.json with policy now
+2024-10-09 01:28:55 INFO saving file requirements.txt with policy now
+2024-10-09 01:28:55 INFO saving file media/images/predicted_density_image_0_c66e49fb2d890ca8c40f.png with policy now
+2024-10-09 01:28:55 INFO saving file wandb-summary.json with policy end
+2024-10-09 01:28:55 INFO saving file wandb-summary.json with policy end
+2024-10-09 01:28:55 INFO saving file wandb-summary.json with policy end
+2024-10-09 01:28:55 INFO saving file wandb-summary.json with policy end
+2024-10-09 01:28:55 INFO saving file model_checkpoint_0.pth with policy live
+2024-10-09 01:28:55 INFO saving file media/images/predicted_density_image_2_e014ae3cf71870464c85.png with policy now
+2024-10-09 01:28:55 INFO saving file wandb-summary.json with policy end
+2024-10-09 01:28:55 INFO saving file wandb-summary.json with policy end
+2024-10-09 01:28:55 INFO saving file wandb-summary.json with policy end
+2024-10-09 01:28:55 INFO saving file wandb-summary.json with policy end
+2024-10-09 01:28:55 INFO saving file media/images/predicted_density_image_4_fd4e8fbe2c8ec2147433.png with policy now
+2024-10-09 01:28:55 INFO saving file wandb-summary.json with policy end
+2024-10-09 01:28:55 INFO saving file wandb-summary.json with policy end
+2024-10-09 01:28:55 INFO saving file wandb-summary.json with policy end
+2024-10-09 01:28:55 INFO saving file wandb-summary.json with policy end
+2024-10-09 01:28:55 INFO saving file media/images/predicted_density_image_6_dc1d5e73040c9aa5ff9b.png with policy now
+2024-10-09 01:28:55 INFO saving file wandb-summary.json with policy end
+2024-10-09 01:28:56 INFO saving file wandb-summary.json with policy end
+2024-10-09 01:28:56 INFO saving file wandb-summary.json with policy end
+2024-10-09 01:28:56 INFO saving file wandb-summary.json with policy end
+2024-10-09 01:28:56 INFO saving file media/images/predicted_density_image_8_aab2dbe3a1520ec66b9f.png with policy now
+2024-10-09 01:28:56 INFO saving file wandb-summary.json with policy end
+2024-10-09 01:28:56 INFO saving file wandb-summary.json with policy end
+2024-10-09 01:28:56 INFO saving file wandb-summary.json with policy end
+2024-10-09 01:28:56 INFO saving file wandb-summary.json with policy end
+2024-10-09 01:28:56 INFO shutting down sender
+2024-10-09 01:28:56 INFO Uploaded file /tmp/tmp8w93v8zowandb/nwl2f1r7-wandb-metadata.json
+2024-10-09 01:28:56 INFO Uploaded file /tmp/tmp8w93v8zowandb/28655p57-media/images/predicted_density_image_8_aab2dbe3a1520ec66b9f.png
+2024-10-09 01:28:56 INFO Uploaded file /tmp/tmp8w93v8zowandb/w68sm42d-media/images/predicted_density_image_4_fd4e8fbe2c8ec2147433.png
+2024-10-09 01:28:56 INFO Uploaded file /tmp/tmp8w93v8zowandb/8zl1bi4y-requirements.txt
+2024-10-09 01:28:56 INFO Uploaded file /tmp/tmp8w93v8zowandb/diojmswt-media/images/predicted_density_image_2_e014ae3cf71870464c85.png
+2024-10-09 01:28:56 INFO Uploaded file /tmp/tmp8w93v8zowandb/dugy3r3w-media/images/predicted_density_image_6_dc1d5e73040c9aa5ff9b.png
+2024-10-09 01:28:56 INFO Uploaded file /tmp/tmp8w93v8zowandb/zgveat76-media/images/predicted_density_image_0_c66e49fb2d890ca8c40f.png
+2024-10-09 01:28:56 INFO Uploaded file /tmp/tmp8w93v8zowandb/ejlt7m77-wandb-metadata.json
+2024-10-09 01:28:56 INFO file/dir modified: /home/ah5087/COS397_IW/model/wandb/offline-run-20241009_011454-efdjo9tl/files/output.log
+2024-10-09 01:28:56 INFO file/dir modified: /home/ah5087/COS397_IW/model/wandb/offline-run-20241009_011454-efdjo9tl/files/wandb-summary.json
+2024-10-09 01:28:57 INFO Uploaded file /tmp/tmp8w93v8zowandb/ztntjc99-model_checkpoint_0.pth
+2024-10-09 01:28:57 INFO shutting down directory watcher
+2024-10-09 01:28:58 INFO file/dir modified: /home/ah5087/COS397_IW/model/wandb/offline-run-20241009_011454-efdjo9tl/files/output.log
+2024-10-09 01:28:58 INFO scan: /home/ah5087/COS397_IW/model/wandb/offline-run-20241009_011454-efdjo9tl/files
+2024-10-09 01:28:58 INFO scan save: /home/ah5087/COS397_IW/model/wandb/offline-run-20241009_011454-efdjo9tl/files/output.log output.log
+2024-10-09 01:28:58 INFO scan save: /home/ah5087/COS397_IW/model/wandb/offline-run-20241009_011454-efdjo9tl/files/wandb-metadata.json wandb-metadata.json
+2024-10-09 01:28:58 INFO scan save: /home/ah5087/COS397_IW/model/wandb/offline-run-20241009_011454-efdjo9tl/files/requirements.txt requirements.txt
+2024-10-09 01:28:58 INFO scan save: /home/ah5087/COS397_IW/model/wandb/offline-run-20241009_011454-efdjo9tl/files/model_checkpoint_0.pth model_checkpoint_0.pth
+2024-10-09 01:28:58 INFO scan save: /home/ah5087/COS397_IW/model/wandb/offline-run-20241009_011454-efdjo9tl/files/config.yaml config.yaml
+2024-10-09 01:28:58 INFO scan save: /home/ah5087/COS397_IW/model/wandb/offline-run-20241009_011454-efdjo9tl/files/wandb-summary.json wandb-summary.json
+2024-10-09 01:28:58 INFO scan save: /home/ah5087/COS397_IW/model/wandb/offline-run-20241009_011454-efdjo9tl/files/media/images/predicted_density_image_0_c66e49fb2d890ca8c40f.png media/images/predicted_density_image_0_c66e49fb2d890ca8c40f.png
+2024-10-09 01:28:58 INFO scan save: /home/ah5087/COS397_IW/model/wandb/offline-run-20241009_011454-efdjo9tl/files/media/images/predicted_density_image_2_e014ae3cf71870464c85.png media/images/predicted_density_image_2_e014ae3cf71870464c85.png
+2024-10-09 01:28:58 INFO scan save: /home/ah5087/COS397_IW/model/wandb/offline-run-20241009_011454-efdjo9tl/files/media/images/predicted_density_image_4_fd4e8fbe2c8ec2147433.png media/images/predicted_density_image_4_fd4e8fbe2c8ec2147433.png
+2024-10-09 01:28:58 INFO scan save: /home/ah5087/COS397_IW/model/wandb/offline-run-20241009_011454-efdjo9tl/files/media/images/predicted_density_image_6_dc1d5e73040c9aa5ff9b.png media/images/predicted_density_image_6_dc1d5e73040c9aa5ff9b.png
+2024-10-09 01:28:58 INFO scan save: /home/ah5087/COS397_IW/model/wandb/offline-run-20241009_011454-efdjo9tl/files/media/images/predicted_density_image_8_aab2dbe3a1520ec66b9f.png media/images/predicted_density_image_8_aab2dbe3a1520ec66b9f.png
+2024-10-09 01:28:58 INFO scan save: /home/ah5087/COS397_IW/model/wandb/offline-run-20241009_011454-efdjo9tl/files/media/images/predicted_density_image_10_fd27f9ef569618925a0b.png media/images/predicted_density_image_10_fd27f9ef569618925a0b.png
+2024-10-09 01:28:58 INFO shutting down file pusher
+2024-10-09 01:28:58 INFO waiting for file pusher
+2024-10-09 01:28:59 INFO Uploaded file /home/ah5087/COS397_IW/model/wandb/offline-run-20241009_011454-efdjo9tl/files/output.log
+2024-10-09 01:28:59 INFO Uploaded file /home/ah5087/COS397_IW/model/wandb/offline-run-20241009_011454-efdjo9tl/files/wandb-summary.json
+2024-10-09 01:28:59 INFO Uploaded file /home/ah5087/COS397_IW/model/wandb/offline-run-20241009_011454-efdjo9tl/files/config.yaml
+2024-10-09 01:28:59 INFO file stream finish called
+2024-10-09 01:28:59 INFO file stream finish is done
+2024-10-09 01:31:14 INFO open for scan: /home/ah5087/COS397_IW/model/wandb/offline-run-20241009_011454-efdjo9tl/run-efdjo9tl.wandb
+2024-10-09 01:31:14 INFO watching files in: /home/ah5087/COS397_IW/model/wandb/offline-run-20241009_011454-efdjo9tl/files
+2024-10-09 01:31:14 INFO run started: efdjo9tl with start time 1728450894.299231
+2024-10-09 01:31:14 INFO saving file wandb-metadata.json with policy now
+2024-10-09 01:31:14 INFO saving file wandb-metadata.json with policy now
+2024-10-09 01:31:14 INFO saving file requirements.txt with policy now
+2024-10-09 01:31:14 INFO saving file media/images/predicted_density_image_0_c66e49fb2d890ca8c40f.png with policy now
+2024-10-09 01:31:14 INFO saving file wandb-summary.json with policy end
+2024-10-09 01:31:14 INFO saving file wandb-summary.json with policy end
+2024-10-09 01:31:14 INFO saving file wandb-summary.json with policy end
+2024-10-09 01:31:14 INFO saving file wandb-summary.json with policy end
+2024-10-09 01:31:14 INFO saving file model_checkpoint_0.pth with policy live
+2024-10-09 01:31:14 INFO saving file media/images/predicted_density_image_2_e014ae3cf71870464c85.png with policy now
+2024-10-09 01:31:14 INFO saving file wandb-summary.json with policy end
+2024-10-09 01:31:14 INFO saving file wandb-summary.json with policy end
+2024-10-09 01:31:14 INFO saving file wandb-summary.json with policy end
+2024-10-09 01:31:14 INFO saving file wandb-summary.json with policy end
+2024-10-09 01:31:14 INFO saving file media/images/predicted_density_image_4_fd4e8fbe2c8ec2147433.png with policy now
+2024-10-09 01:31:14 INFO saving file wandb-summary.json with policy end
+2024-10-09 01:31:14 INFO saving file wandb-summary.json with policy end
+2024-10-09 01:31:14 INFO saving file wandb-summary.json with policy end
+2024-10-09 01:31:14 INFO saving file wandb-summary.json with policy end
+2024-10-09 01:31:14 INFO saving file media/images/predicted_density_image_6_dc1d5e73040c9aa5ff9b.png with policy now
+2024-10-09 01:31:14 INFO saving file wandb-summary.json with policy end
+2024-10-09 01:31:14 INFO saving file wandb-summary.json with policy end
+2024-10-09 01:31:14 INFO saving file wandb-summary.json with policy end
+2024-10-09 01:31:14 INFO saving file wandb-summary.json with policy end
+2024-10-09 01:31:14 INFO saving file media/images/predicted_density_image_8_aab2dbe3a1520ec66b9f.png with policy now
+2024-10-09 01:31:14 INFO saving file wandb-summary.json with policy end
+2024-10-09 01:31:14 INFO saving file wandb-summary.json with policy end
+2024-10-09 01:31:14 INFO saving file wandb-summary.json with policy end
+2024-10-09 01:31:14 INFO saving file wandb-summary.json with policy end
+2024-10-09 01:31:14 INFO saving file media/images/predicted_density_image_10_fd27f9ef569618925a0b.png with policy now
+2024-10-09 01:31:14 INFO saving file wandb-summary.json with policy end
+2024-10-09 01:31:14 INFO saving file wandb-summary.json with policy end
+2024-10-09 01:31:14 INFO saving file wandb-summary.json with policy end
+2024-10-09 01:31:14 INFO saving file wandb-summary.json with policy end
+2024-10-09 01:31:14 INFO saving file media/images/predicted_density_image_12_5e9ad6614e30dc329717.png with policy now
+2024-10-09 01:31:14 INFO saving file wandb-summary.json with policy end
+2024-10-09 01:31:14 INFO saving file wandb-summary.json with policy end
+2024-10-09 01:31:14 INFO saving file wandb-summary.json with policy end
+2024-10-09 01:31:14 INFO saving file wandb-summary.json with policy end
+2024-10-09 01:31:14 INFO shutting down sender
+2024-10-09 01:31:14 INFO Uploaded file /tmp/tmp62uxwmj0wandb/hyjpz7js-media/images/predicted_density_image_10_fd27f9ef569618925a0b.png
+2024-10-09 01:31:14 INFO Uploaded file /tmp/tmp62uxwmj0wandb/1kddscb9-media/images/predicted_density_image_12_5e9ad6614e30dc329717.png
+2024-10-09 01:31:14 INFO Uploaded file /tmp/tmp62uxwmj0wandb/h6e80fqu-wandb-metadata.json
+2024-10-09 01:31:14 INFO Uploaded file /tmp/tmp62uxwmj0wandb/n5dfj0en-media/images/predicted_density_image_2_e014ae3cf71870464c85.png
+2024-10-09 01:31:14 INFO Uploaded file /tmp/tmp62uxwmj0wandb/a0bs0z6g-requirements.txt
+2024-10-09 01:31:14 INFO Uploaded file /tmp/tmp62uxwmj0wandb/2c14lhr8-media/images/predicted_density_image_6_dc1d5e73040c9aa5ff9b.png
+2024-10-09 01:31:14 INFO Uploaded file /tmp/tmp62uxwmj0wandb/vzwwcxay-media/images/predicted_density_image_8_aab2dbe3a1520ec66b9f.png
+2024-10-09 01:31:14 INFO Uploaded file /tmp/tmp62uxwmj0wandb/legwuhs8-media/images/predicted_density_image_4_fd4e8fbe2c8ec2147433.png
+2024-10-09 01:31:14 INFO Uploaded file /tmp/tmp62uxwmj0wandb/39tyqah0-media/images/predicted_density_image_0_c66e49fb2d890ca8c40f.png
+2024-10-09 01:31:15 INFO Uploaded file /tmp/tmp62uxwmj0wandb/erpn4l6g-wandb-metadata.json
+2024-10-09 01:31:15 INFO Uploaded file /tmp/tmp62uxwmj0wandb/xgjksf4n-model_checkpoint_0.pth
+2024-10-09 01:31:15 INFO file/dir modified: /home/ah5087/COS397_IW/model/wandb/offline-run-20241009_011454-efdjo9tl/files/output.log
+2024-10-09 01:31:15 INFO file/dir modified: /home/ah5087/COS397_IW/model/wandb/offline-run-20241009_011454-efdjo9tl/files/wandb-summary.json
+2024-10-09 01:31:16 INFO shutting down directory watcher
+2024-10-09 01:31:17 INFO file/dir modified: /home/ah5087/COS397_IW/model/wandb/offline-run-20241009_011454-efdjo9tl/files/output.log
+2024-10-09 01:31:17 INFO scan: /home/ah5087/COS397_IW/model/wandb/offline-run-20241009_011454-efdjo9tl/files
+2024-10-09 01:31:17 INFO scan save: /home/ah5087/COS397_IW/model/wandb/offline-run-20241009_011454-efdjo9tl/files/output.log output.log
+2024-10-09 01:31:17 INFO scan save: /home/ah5087/COS397_IW/model/wandb/offline-run-20241009_011454-efdjo9tl/files/wandb-metadata.json wandb-metadata.json
+2024-10-09 01:31:17 INFO scan save: /home/ah5087/COS397_IW/model/wandb/offline-run-20241009_011454-efdjo9tl/files/requirements.txt requirements.txt
+2024-10-09 01:31:17 INFO scan save: /home/ah5087/COS397_IW/model/wandb/offline-run-20241009_011454-efdjo9tl/files/model_checkpoint_0.pth model_checkpoint_0.pth
+2024-10-09 01:31:17 INFO scan save: /home/ah5087/COS397_IW/model/wandb/offline-run-20241009_011454-efdjo9tl/files/config.yaml config.yaml
+2024-10-09 01:31:17 INFO scan save: /home/ah5087/COS397_IW/model/wandb/offline-run-20241009_011454-efdjo9tl/files/wandb-summary.json wandb-summary.json
+2024-10-09 01:31:17 INFO scan save: /home/ah5087/COS397_IW/model/wandb/offline-run-20241009_011454-efdjo9tl/files/media/images/predicted_density_image_0_c66e49fb2d890ca8c40f.png media/images/predicted_density_image_0_c66e49fb2d890ca8c40f.png
+2024-10-09 01:31:17 INFO scan save: /home/ah5087/COS397_IW/model/wandb/offline-run-20241009_011454-efdjo9tl/files/media/images/predicted_density_image_2_e014ae3cf71870464c85.png media/images/predicted_density_image_2_e014ae3cf71870464c85.png
+2024-10-09 01:31:17 INFO scan save: /home/ah5087/COS397_IW/model/wandb/offline-run-20241009_011454-efdjo9tl/files/media/images/predicted_density_image_4_fd4e8fbe2c8ec2147433.png media/images/predicted_density_image_4_fd4e8fbe2c8ec2147433.png
+2024-10-09 01:31:17 INFO scan save: /home/ah5087/COS397_IW/model/wandb/offline-run-20241009_011454-efdjo9tl/files/media/images/predicted_density_image_6_dc1d5e73040c9aa5ff9b.png media/images/predicted_density_image_6_dc1d5e73040c9aa5ff9b.png
+2024-10-09 01:31:17 INFO scan save: /home/ah5087/COS397_IW/model/wandb/offline-run-20241009_011454-efdjo9tl/files/media/images/predicted_density_image_8_aab2dbe3a1520ec66b9f.png media/images/predicted_density_image_8_aab2dbe3a1520ec66b9f.png
+2024-10-09 01:31:17 INFO scan save: /home/ah5087/COS397_IW/model/wandb/offline-run-20241009_011454-efdjo9tl/files/media/images/predicted_density_image_10_fd27f9ef569618925a0b.png media/images/predicted_density_image_10_fd27f9ef569618925a0b.png
+2024-10-09 01:31:17 INFO scan save: /home/ah5087/COS397_IW/model/wandb/offline-run-20241009_011454-efdjo9tl/files/media/images/predicted_density_image_12_5e9ad6614e30dc329717.png media/images/predicted_density_image_12_5e9ad6614e30dc329717.png
+2024-10-09 01:31:17 INFO shutting down file pusher
+2024-10-09 01:31:17 INFO waiting for file pusher
+2024-10-09 01:31:17 INFO Uploaded file /home/ah5087/COS397_IW/model/wandb/offline-run-20241009_011454-efdjo9tl/files/output.log
+2024-10-09 01:31:17 INFO Uploaded file /home/ah5087/COS397_IW/model/wandb/offline-run-20241009_011454-efdjo9tl/files/config.yaml
+2024-10-09 01:31:17 INFO Uploaded file /home/ah5087/COS397_IW/model/wandb/offline-run-20241009_011454-efdjo9tl/files/wandb-summary.json
+2024-10-09 01:31:17 INFO file stream finish called
+2024-10-09 01:31:18 INFO file stream finish is done

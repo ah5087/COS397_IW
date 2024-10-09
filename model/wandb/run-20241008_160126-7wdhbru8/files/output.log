@@ -1,0 +1,5 @@
+Training Progress:   0%|                                                                                                                                                          | 0/1000 [00:01<?, ?it/s]
+Traceback (most recent call last):
+  File "train.py", line 49, in <module>
+    next_obs_flat = next_obs.detach().view(-1)
+NameError: name 'next_obs' is not defined

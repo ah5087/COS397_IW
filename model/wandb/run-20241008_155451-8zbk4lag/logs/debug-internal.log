@@ -1,0 +1,18 @@
+{"time":"2024-10-08T15:54:51.019282639-04:00","level":"INFO","msg":"using version","core version":"0.18.3"}
+{"time":"2024-10-08T15:54:51.019293928-04:00","level":"INFO","msg":"created symlink","path":"/home/ah5087/COS397_IW/model/wandb/run-20241008_155451-8zbk4lag/logs/debug-core.log"}
+{"time":"2024-10-08T15:54:51.021681599-04:00","level":"ERROR","msg":"dialing: google: could not find default credentials. See https://cloud.google.com/docs/authentication/external/set-up-adc for more information"}
+{"time":"2024-10-08T15:54:51.032012203-04:00","level":"INFO","msg":"created new stream","id":"8zbk4lag"}
+{"time":"2024-10-08T15:54:51.032036822-04:00","level":"INFO","msg":"stream: started","id":"8zbk4lag"}
+{"time":"2024-10-08T15:54:51.03206173-04:00","level":"INFO","msg":"handler: started","stream_id":{"value":"8zbk4lag"}}
+{"time":"2024-10-08T15:54:51.032100753-04:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"8zbk4lag"}}
+{"time":"2024-10-08T15:54:51.032100807-04:00","level":"INFO","msg":"sender: started","stream_id":{"value":"8zbk4lag"}}
+{"time":"2024-10-08T15:54:51.304229055-04:00","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-08T15:54:51.305088041-04:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-08T15:54:52.1855311-04:00","level":"INFO","msg":"stream: closing","id":"8zbk4lag"}
+{"time":"2024-10-08T15:54:52.185638806-04:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-08T15:54:52.185661738-04:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-08T15:54:53.255726292-04:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-10-08T15:54:53.388655746-04:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"8zbk4lag"}}
+{"time":"2024-10-08T15:54:53.388696552-04:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"8zbk4lag"}}
+{"time":"2024-10-08T15:54:53.388729661-04:00","level":"INFO","msg":"sender: closed","stream_id":{"value":"8zbk4lag"}}
+{"time":"2024-10-08T15:54:53.388960757-04:00","level":"INFO","msg":"stream: closed","id":"8zbk4lag"}

@@ -1,0 +1,21 @@
+{"time":"2024-10-08T16:48:56.863028428-04:00","level":"INFO","msg":"using version","core version":"0.18.3"}
+{"time":"2024-10-08T16:48:56.863040967-04:00","level":"INFO","msg":"created symlink","path":"/home/ah5087/COS397_IW/model/wandb/run-20241008_164856-4kmsmuyb/logs/debug-core.log"}
+{"time":"2024-10-08T16:48:56.872991468-04:00","level":"ERROR","msg":"dialing: google: could not find default credentials. See https://cloud.google.com/docs/authentication/external/set-up-adc for more information"}
+{"time":"2024-10-08T16:48:56.890138802-04:00","level":"INFO","msg":"created new stream","id":"4kmsmuyb"}
+{"time":"2024-10-08T16:48:56.890156598-04:00","level":"INFO","msg":"stream: started","id":"4kmsmuyb"}
+{"time":"2024-10-08T16:48:56.890175372-04:00","level":"INFO","msg":"handler: started","stream_id":{"value":"4kmsmuyb"}}
+{"time":"2024-10-08T16:48:56.890232091-04:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"4kmsmuyb"}}
+{"time":"2024-10-08T16:48:56.890464816-04:00","level":"INFO","msg":"sender: started","stream_id":{"value":"4kmsmuyb"}}
+{"time":"2024-10-08T16:48:56.893595401-04:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai on [::1]:53: read udp [::1]:55889->[::1]:53: read: connection refused"}
+{"time":"2024-10-08T16:48:58.925931712-04:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai on [::1]:53: read udp [::1]:40483->[::1]:53: read: connection refused"}
+{"time":"2024-10-08T16:49:03.447250944-04:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai on [::1]:53: read udp [::1]:48964->[::1]:53: read: connection refused"}
+{"time":"2024-10-08T16:49:12.391041042-04:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai on [::1]:53: read udp [::1]:40398->[::1]:53: read: connection refused"}
+{"time":"2024-10-08T16:49:29.298956031-04:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai on [::1]:53: read udp [::1]:37022->[::1]:53: read: connection refused"}
+{"time":"2024-10-08T16:50:05.332080704-04:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai on [::1]:53: read udp [::1]:37472->[::1]:53: read: connection refused"}
+{"time":"2024-10-08T16:50:26.935176626-04:00","level":"INFO","msg":"stream: closing","id":"4kmsmuyb"}
+{"time":"2024-10-08T16:50:26.935203714-04:00","level":"ERROR","msg":"sender: upsertRun:","error":"failed to upsert bucket: api: failed sending: context canceled"}
+{"time":"2024-10-08T16:50:26.935277974-04:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"4kmsmuyb"}}
+{"time":"2024-10-08T16:50:26.935505831-04:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"4kmsmuyb"}}
+{"time":"2024-10-08T16:50:26.935527541-04:00","level":"ERROR","msg":"runwork: ignoring record after close","work":{"Record":{"RecordType":{"Request":{"RequestType":{"Defer":{}}}},"control":{"always_send":true}}}}
+{"time":"2024-10-08T16:50:26.936690401-04:00","level":"INFO","msg":"sender: closed","stream_id":{"value":"4kmsmuyb"}}
+{"time":"2024-10-08T16:50:26.9367034-04:00","level":"INFO","msg":"stream: closed","id":"4kmsmuyb"}
