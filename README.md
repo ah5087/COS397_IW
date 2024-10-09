@@ -2,7 +2,7 @@
 
 The primary goal of this project is to create an unsupervised RL algorithm capable of predicting how cells containing OptoEGFR migrate when exposed to different light stimuli. By accurately modeling cell movement, we can enhance techniques in tissue engineering, such as guiding cells to specific configurations to accelerate wound healing or study tissue morphogenesis.
 
-This project builds upon and collaborates with research conducted by **Suh et al.** in the **Toettcher Lab**, where OptoEGFR was introduced as a mechanism for large-scale optogenetic control of mammalian cells. The initial studies used a simplified boundary-flux model based on empirical data to output relative cell densities in response to illumination inputs. The original paper can be found here:
+This project builds upon and collaborates with research conducted by Suh et al. in the Toettcher Lab at Princeton University, where OptoEGFR was introduced as a mechanism for large-scale optogenetic control of mammalian cells. The initial studies used a simplified boundary-flux model based on empirical data to output relative cell densities in response to illumination inputs. The original paper can be found here:
 
 **Suh, K., Thornton, R., Farahani, P. E., Cohen, D., & Toettcher, J.** (2024). *Large-scale control over collective cell migration using light-controlled epidermal growth factor receptors*. bioRxiv. [https://doi.org/10.1101/2024.05.30.596676](https://doi.org/10.1101/2024.05.30.596676)
 
